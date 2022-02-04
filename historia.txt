@@ -2,4 +2,8 @@ Esta es la historia de Alberto Gonzalez
 
 Alberto Gonzalez tiene 24 años y nacio en México.
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida y obra maestra
+=======
+Mañana nos enfocaremos en su vida loboral
+>>>>>>> cabecera
