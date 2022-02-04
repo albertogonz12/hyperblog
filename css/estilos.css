@@ -1,5 +1,5 @@
 body{
-     color: blue;
+     color: #333;
      text-align: left;
      font-family: Arial, Helvetica, sans-serif;
      font-size: 16px;
@@ -7,7 +7,7 @@ body{
      padding: 0;
 }
 #cabecera{
-    background-color: #33a;
+    background-color: rgb(84, 84, 87);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
